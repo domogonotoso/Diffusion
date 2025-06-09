@@ -17,3 +17,16 @@ diffusion_project/
 ├── checkpoints/                # Directory to save model checkpoints
 ├── requirements.txt            # Python package dependencies
 └── README.md                   # Project overview and instructions
+
+
+
+
+Concept
+schedular process, noise and denoise process with formular
+
+
+AI image generator is popular like Stable Diffusion even to people who doesn't get used to AI tech.
+But this time I just imply simple diffusion model that U-net without text prompt. 
+
+
+Later, next project(stable diffusion) classifier guidance,    Classifier-Free Guidance(CFG)!!!!!
