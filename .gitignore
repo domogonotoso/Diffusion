@@ -1,0 +1,8 @@
+# .gitignore
+data/
+checkpoints/
+samples/
+*.pt
+*.png
+*.gif
+__pycache__/
